@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Upgrading To Moodle 2: Technical Workshop</title>
+<!-- metadata -->
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20120413" />
+<meta name="author" content="Mark Johnson" />
+<meta name="company" content="Taunton's College" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<link href="http://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<!-- S5 JS -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+<div id="footer">
+</div>
+
+</div>
+
+
+<div class="presentation">
+
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide1.svg" type="image/svg+xml" /> 
+</div>
+
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide2.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide3.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide4.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide5.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide6.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide7.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide8.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide9.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide10.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide11.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide12.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide13.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide14.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide15.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide16.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide17.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide18.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide19.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide20.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide21.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide22.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide23.svg" type="image/svg+xml" /> 
+</div>
+<div class="slide">
+<img style="width:100%;height:100%" src="slides/slide24.svg" type="image/svg+xml" /> 
+</div>
+</div>
+
+</body>
+</html>
